@@ -1,5 +1,5 @@
 # directions
-face detection/recognition/verification<br>
+face detection/alignment/recognition/verification<br>
 crowd counting<br>
 human pose estimation<br>
 pedestrian detection/tracking<br>
