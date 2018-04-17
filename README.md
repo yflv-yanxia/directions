@@ -12,7 +12,8 @@ vr/ar<br>
 image segmentation/classification<br>
 highlight<br>
 key shot<br>
-scene recognition<br>
+scene classification<br>
+place classification<br>
 text detection/recognition<br>
 ReID<br>
 emotion classification<br>
