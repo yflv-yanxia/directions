@@ -16,3 +16,4 @@ scene recognition<br>
 text detection/recognition<br>
 ReID<br>
 emotion classification<br>
+video fingerprint<br>
